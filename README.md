@@ -8,9 +8,9 @@
 
 ## Links
 * My website
-  * [My website](https://www.yuhima.net/profile)
+  * https://www.yuhima.net/profile
 * Twitter
-  * [Twitter](https://twitter.com/yuhima_03)
+  * https://twitter.com/yuhima_03
 
 <!--
 Edited by YuHima
