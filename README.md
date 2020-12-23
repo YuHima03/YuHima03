@@ -1,5 +1,5 @@
-# こんちは。
-## ゆーひまと申します
+## Hi there
+My name is YuHima
 
 <!--
 Edited by YuHima
