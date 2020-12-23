@@ -6,7 +6,7 @@
 
 ## Info
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhima03)](./) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhima03)](./)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhima03&layout=compact)](./)
 
 ## Links
 
