@@ -1,6 +1,8 @@
 ## Hi there!
-ゆーひまと申します。
-最近は主に**AviUtlのスクリプト制作**をしています
+ゆーひまです。
+最近はAviUtlのスクリプト制作をしています。
+
+<a href="./">CLICK THIS !</a>
 
 <!--
 Edited by YuHima
