@@ -1,15 +1,16 @@
 ## Hi there!
-![Github Logo](/images/logo.png)
 こんちは！ゆーひまです。<br />
 最近は<u>AviUtlのスクリプト</u>制作をしています。
-
-## Works
 
 ## Info
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhima03)](./) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhima03&layout=compact)](./)
 
 ## Links
+* My website
+  * [My website](https://www.yuhima.net/profile)
+* Twitter
+  * [Twitter](https://twitter.com/yuhima_03)
 
 <!--
 Edited by YuHima
