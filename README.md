@@ -1,4 +1,5 @@
 ## Hi there!
+![Github Logo](/images/logo.png)
 こんちは！ゆーひまです。<br />
 最近は<u>AviUtlのスクリプト</u>制作をしています。
 
