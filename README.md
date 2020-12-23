@@ -7,9 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhima03&layout=compact)](./)
 
 # Links
-* ### My website
+* **My website**
   * https://www.yuhima.net/profile
-* ### Twitter
+* **Twitter**
   * https://twitter.com/yuhima_03
 
 <!--
