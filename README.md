@@ -1,6 +1,6 @@
 # Hi there!
 こんちは！ゆーひまです。<br />
-最近は<u>Javascript</u>のスキルアップの為に色々作ってます。<br />
+最近はJavascriptのスキルアップの為に色々作ってます。<br />
 時々<u>AviUtlのスクリプト</u>制作をします。
 
 # Info
