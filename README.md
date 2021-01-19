@@ -1,7 +1,7 @@
 # Hi there!
 こんちは！ゆーひまです。<br />
-最近はJavascriptのスキルアップの為に色々作ってます。<br />
-時々<u>AviUtlのスクリプト</u>制作をします。
+最近は**Javascript**のスキルアップの為に色々作ってます。<br />
+時々**AviUtlのスクリプト**制作をします。
 
 # Info
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhima03)](./) <br />
