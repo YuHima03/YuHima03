@@ -1,19 +1,25 @@
 # Hi there!
-こんちは！ゆーひまです。<br />
-最近は**Javascript**のスキルアップの為に色々作ってます。<br />
-時々**AviUtlのスクリプト**制作をします。
+**YuHima**&nbsp;(ゆーひま)&nbsp;といいます
+
+- 近頃は、Webサイト関係のプログラミング&nbsp;(TS, PHP...とか)&nbsp;にはまっています
+- たまにAviUtlのスクリプトを作っています
+- 一応 **C++**, **C#**, **PHP**, **JS**(TS), **Lua**, **SQL**(少しだけ) が書けます
+- **HTML**, **CSS** でWebページも作れる気がします
 
 # Info
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuhima03)](./) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuhima03&layout=compact)](./)
 
 # Links
-* **My website**
-  * https://www.yuhima.net/profile
-* **Twitter**
-  * https://twitter.com/yuhima_03
+- **My website**
+
+  (サーバーの契約切れで現在閲覧できません...ｺﾞﾒﾝﾅｻｲ)
+
+  - ~~https://www.yuhima.net/profile~~
+- **Twitter**
+  - https://twitter.com/yuhima_03
 
 <!--
 Edited by YuHima
-Leatest 2020-12-13
+Leatest 2022-02-08
 -->
