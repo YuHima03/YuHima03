@@ -1,10 +1,6 @@
 # Hi there!
 **YuHima**&nbsp;(ゆーひま)&nbsp;といいます
 
-- 近頃は、Webサイト関係のプログラミングにはまっています
-
-  C# (.NET) ばかり書いてますw
-
 - たまにAviUtlのスクリプトを作っています
 - 一応 **C++**, **C#**, **PHP**, **JS**(TS), **Lua**, **SQL**(少しだけ) が書けます
 - **HTML**, **CSS** でWebページも作れる気がします
@@ -16,7 +12,7 @@
 # Links
 - **My website**
 
-  (サーバーの契約切れで現在閲覧できません...ｺﾞﾒﾝﾅｻｲ)
+  (サーバーの契約切れで現在閲覧できません...)
 
   - ~~https://www.yuhima.net/profile~~
 - **Twitter**
@@ -24,5 +20,5 @@
 
 <!--
 Edited by YuHima
-Leatest 2022-02-08
+Leatest 2022-10-15
 -->
