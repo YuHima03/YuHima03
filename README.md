@@ -1,8 +1,8 @@
-# Hi there!
-**YuHima**&nbsp;(ゆーひま)&nbsp;といいます
+# About Me
+**YuHima**&nbsp;は&nbsp;“ゆーひま”&nbsp;と読みます.
 
-- C++, C# メインで活動しています
-- 以前はWeb関係 (HTML, CSS, JS等) を触っていたり, AviUtlのスクリプトを少し作っていました
+- 主に C++, C# でプログラムを制作しています.
+- 以前はWeb関係 (HTML, CSS, JS, PHP, MySQL など) を触っていたり, AviUtlのスクリプトを少し作っていました.
 
 # Links
 
@@ -15,5 +15,5 @@
 
 <!--
 Edited by YuHima
-Leatest 2024-02-08
+Leatest 2024-04-01
 -->
