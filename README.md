@@ -7,7 +7,7 @@
 # Links
 
 - My website
-  : ~~<https://www.yuhima.net/~~
+  : ~~<https://www.yuhima.net/>~~
   > 金欠でサーバーを手放してしまったのでアクセスしても何もないです...
 - Twitter (X)
   : [@YuHima_03](https://www.twitter.com/YuHima_03/)
